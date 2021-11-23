@@ -159,7 +159,7 @@ public class Bila : MonoBehaviour
             Lvlcompl = true;
             for (int i = 0; i < 10; i++) {
                 transform.localScale = new Vector2 (1 - i/10, 1 - i/10);
-                //new WaitForSeconds(1);
+                
                 
                 
             }
